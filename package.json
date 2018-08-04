@@ -1,0 +1,30 @@
+{
+  "name": "pages",
+  "version": "1.0.0",
+  "description": "Website for github pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricSekyere/pages.git"
+  },
+  "dependencies": {
+    "express": "^4.1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "npm",
+    "git",
+    "javascript"
+  ],
+  "author": "Eric Sekyere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricSekyere/pages/issues"
+  },
+  "homepage": "https://github.com/EricSekyere/pages#readme"
+}
