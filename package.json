@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm test",
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -14,12 +14,16 @@
   "dependencies": {
     "express": "^4.1"
   },
+  "devDependencies": {
+    "nodemon": "1.18.3"
+  },
   "keywords": [
     "html",
     "css",
     "npm",
     "git",
-    "javascript"
+    "javascript",
+    "Docker"
   ],
   "author": "Eric Sekyere",
   "license": "ISC",
